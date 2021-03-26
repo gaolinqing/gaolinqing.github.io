@@ -106,3 +106,5 @@ friends: [
     #     href: "http://su.gallery/"
      }
 ]
+
+theme: jekyll-theme-cayman
