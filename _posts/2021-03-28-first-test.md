@@ -1,9 +1,3 @@
----
-layout: post
-title: lalala
----
-
-
 ##Night gathers, and now my watch begins. It shall not end until my death.
 
 I shall take no wife, hold no lands, father no children.
