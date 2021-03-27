@@ -1,3 +1,14 @@
+---
+layout: post
+title: "first test 000"
+subtitle: 'yes'
+author: "me"
+header-style: text
+tags:
+  - a
+  - b
+---
+
 ## Night gathers, and now my watch begins. It shall not end until my death.
 
 I shall take no wife, hold no lands, father no children.
